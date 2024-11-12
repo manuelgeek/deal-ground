@@ -2,6 +2,12 @@
 
 This is a sample app that lists and add listings in relatime
 
+## WHat is done within the 1h
+
+- response UI
+- list items with tanstack query with caching capability
+- update ui upon mutation
+
 ## Libraries and Stack
 
 - TanStack Query
