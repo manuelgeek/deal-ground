@@ -2,11 +2,19 @@
 
 This is a sample app that lists and add listings in relatime
 
-## WHat is done within the 1h
+## What is done within the 1h
 
+- dummy data
 - response UI
 - list items with tanstack query with caching capability
 - update ui upon mutation
+
+## TODO given time
+- filtering
+- look for actual API
+- complex filtering
+- improve UI
+- pagination
 
 ## Libraries and Stack
 
